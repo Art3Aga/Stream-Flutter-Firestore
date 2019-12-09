@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80280123735",
+    "firebase_url": "https://busimulator-83575.firebaseio.com",
+    "project_id": "busimulator-83575",
+    "storage_bucket": "busimulator-83575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80280123735:android:0d70cc6b0de64ffde6e612",
+        "android_client_info": {
+          "package_name": "com.busitoapp.flutter.arteaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80280123735-sqrjv5rth372hg7grpjgcs9nit3umeoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_BpVLQxpUlnX2NGU6a-ZPkIY6iXqOoiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80280123735-sqrjv5rth372hg7grpjgcs9nit3umeoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
